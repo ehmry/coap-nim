@@ -1,6 +1,6 @@
 # Package
 
-version = "20230118"
+version = "20230125"
 author        = "Emery Hemingway"
 description   = "CoAP endpoint libary"
 license       = "Unlicense"
