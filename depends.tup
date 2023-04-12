@@ -1,0 +1,2 @@
+NIM_FLAGS += --path:$(TUP_CWD)/../getdns/src
+NIM_FLAGS += --path:$(TUP_CWD)/../taps/src
